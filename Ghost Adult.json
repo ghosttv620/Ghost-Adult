@@ -4,12 +4,6 @@
       "name": "Bangla",
       "movies": [
         {
-          "name": "BD CUTE GIRL 1",
-          "logo": "https://i.ibb.co.com/SHtq9gR/Capt-Kure.png",
-          "link": "https://github.com/zibon220/JXC1/releases/download/JXC/videoplayback.3.4.mp4",
-          "premium": true
-        },
-        {
           "name": "BD CUTE GIRL",
           "logo": "https://i.ibb.co.com/mr3rXyY6/Capt-Yure.png",
           "link": "https://github.com/zibon220/JXC1/releases/download/JXC/videoplayback.5.1.mp4",
@@ -110,6 +104,12 @@
     {
       "name": "Hindi",
       "movies": [
+        {
+          "name": "BD CUTE GIRL 1",
+          "logo": "https://i.ibb.co.com/SHtq9gR/Capt-Kure.png",
+          "link": "https://github.com/zibon220/JXC1/releases/download/JXC/videoplayback.3.4.mp4",
+          "premium": true
+        },
         {
           "name": "INDONESIA CUTE GIRL",
           "logo": "https://i.ibb.co.com/kgmf7GzD/Capture-G.png",
