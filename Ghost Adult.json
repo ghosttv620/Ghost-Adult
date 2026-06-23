@@ -4,12 +4,6 @@
       "name": "Bangla",
       "movies": [
         {
-          "name": "INDONESIA CUTE GIRL",
-          "logo": "https://i.ibb.co.com/kgmf7GzD/Capture-G.png",
-          "link": "https://github.com/zibon220/JXC1/releases/download/JXC/videoplayback.8.2.mp4",
-          "premium": false
-        },
-        {
           "name": "BD CUTE GIRL 1",
           "logo": "https://i.ibb.co.com/SHtq9gR/Capt-Kure.png",
           "link": "https://github.com/zibon220/JXC1/releases/download/JXC/videoplayback.3.4.mp4",
@@ -116,6 +110,12 @@
     {
       "name": "Hindi",
       "movies": [
+        {
+          "name": "INDONESIA CUTE GIRL",
+          "logo": "https://i.ibb.co.com/kgmf7GzD/Capture-G.png",
+          "link": "https://github.com/zibon220/JXC1/releases/download/JXC/videoplayback.8.2.mp4",
+          "premium": false
+        },
         {
           "name": "Samjhota 3",
           "logo": "https://hotflix.vip/upload/NewFolder/NewFolder%2035/46.jpg",
